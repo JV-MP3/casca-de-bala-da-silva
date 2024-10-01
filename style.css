@@ -9,4 +9,8 @@ body {background: rgb(159,4,4);
     ul {
         display: flex;
         list-style: none;
+        font-size: 45px;
+        color: white;
+        gap: 28px;
+        text-transform: uppercase;
     }
