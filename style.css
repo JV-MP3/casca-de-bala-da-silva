@@ -1,2 +1,12 @@
 body {background: rgb(159,4,4);
     background: linear-gradient(90deg, rgba(159,4,4,1) 13%, rgba(193,0,0,1) 28%, rgba(255,83,83,1) 62%);}
+
+    header {
+        display: flex;
+        justify-content: center;
+    }
+
+    ul {
+        display: flex;
+        list-style: none;
+    }
